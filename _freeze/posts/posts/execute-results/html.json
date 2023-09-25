@@ -1,0 +1,16 @@
+{
+  "hash": "35a95cfef047e8b47e54b5d80fd80439",
+  "result": {
+    "markdown": "---\ntitle: \"My Blog\"\nlisting: \n  contents: posts\n  type: grid\n  sort: \"date desc\"\n  categories: true\nformat: html\neditor: visual\n---\n\n\n## Test Blog Post\n\nLet's see if this will update with a new blog post!\n\n\n::: {.cell}\n::: {.cell-output-display}\n![](posts_files/figure-html/unnamed-chunk-1-1.png){width=672}\n:::\n:::\n",
+    "supporting": [
+      "posts_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

@@ -1,0 +1,19 @@
+---
+title: "My Blog"
+listing: 
+  contents: posts
+  type: grid
+  sort: "date desc"
+  categories: true
+format: html
+editor: visual
+---
+
+## Test Blog Post
+
+Let's see if this will update with a new blog post!
+
+```{r, echo=FALSE, message=FALSE}
+library(tidyverse)
+ggplot(mtcars, aes(x = hp, y = mpg)) + geom_point()
+```
